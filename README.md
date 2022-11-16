@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aditya Kumar Singh
-- 👀 I’m interested in Mobile Development (Flutter)
-- 🌱 I’m currently learning State Management
+- 👀 I’m a Mobile Development and love to make application using Flutter
+- 🌱 I’m currently building a end to end Shopping App
 - 💞️ I’m looking to collaborate on Flutter Projects
+- 🕸️ [a4aditya.in](https://a4aditya.in)
 - 📫 adityakumarsinghlbh@gmail.com
